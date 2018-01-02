@@ -1,0 +1,5 @@
+xml/file/generator/DuplicateNode.class
+xml/file/generator/NameLookUp.class
+xml/file/generator/CopyExcelSheet.class
+xml/file/generator/WarmUp.class
+xml/file/generator/SumHelper.class
